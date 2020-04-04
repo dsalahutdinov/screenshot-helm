@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  screenshot:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-04-04T14:04:01.177572+05:00"
+    description: A Helm chart for Kubernetes
+    digest: d2e6b31b69d13ad4d6abbc4f5fa8233abe9250227d19079ecfbc398cab074c1c
+    name: screenshot
+    urls:
+    - charts/screenshot-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-04-04T14:04:01.174707+05:00"
